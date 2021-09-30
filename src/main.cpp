@@ -3,8 +3,7 @@
 #include<GLFW/glfw3.h>
 #include<ft2build.h>
 
-#include "mccpph/exit.h"
-#include "mccpph/window.h"
+#include"mccpph/includes.h"
 
 int main()
 {	//Debuging
